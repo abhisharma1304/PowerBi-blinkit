@@ -39,6 +39,3 @@ This project contains an interactive Power BI dashboard that analyzes sales perf
 ### 🎯 Purpose
 
 This dashboard helps business stakeholders and analysts understand **sales behavior across locations, outlet types, and product categories**, enabling better inventory planning and decision-making.
-
-
-Just reply **"add more sections"** or tell me which style you want (modern / corporate / minimal / data science style).
